@@ -1,4 +1,6 @@
 # Temperature-and-Humidity-Monitoring-and-Notification-System
+![v1_front](https://github.com/dklkushal07/Temperature-and-Humidity-Monitoring-and-Notification-System/assets/68638711/b8ff8d77-8ddb-4e7e-a177-5f6d27bc963b)
+
 Temperature and humidity monitoring and notification system is an academic coursework project designed to measure and monitor physical conditions of humidity and temperature in a given environment. Along with humidity and temperature, an Ultrasonic sensor has been used for the detection of water level depth and similarly, soil
 moisture has been monitored and recorded too. For the notification part of the system, a buzzer device has been used to notify about exceeded thresholds. Along with this, the system uploads data to the cloud using an open-source API known as ThingSpeak. 
 
